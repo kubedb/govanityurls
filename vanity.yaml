@@ -17,6 +17,8 @@ paths:
     repo: https://github.com/kubedb/installer
   /mariadb:
     repo: https://github.com/kubedb/mariadb
+  /mariadb-coordinator:
+    repo: https://github.com/kubedb/mariadb-coordinator
   /memcached:
     repo: https://github.com/kubedb/memcached
   /mongodb:
@@ -25,6 +27,8 @@ paths:
     repo: https://github.com/kubedb/mysql
   /mysql-replication-mode-detector:
     repo: https://github.com/appscode/mysql-replication-mode-detector
+  /mysql-router-init:
+    repo: https://github.com/kubedb/mysql-router-init
   /operator:
     repo: https://github.com/kubedb/operator
   /percona-xtradb:
