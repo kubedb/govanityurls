@@ -7,6 +7,8 @@ paths:
     repo: https://github.com/kubedb/autoscaler
   /cli:
     repo: https://github.com/kubedb/cli
+  /db-client-go:
+    repo: https://github.com/kubedb/db-client-go
   /docs:
     repo: https://github.com/kubedb/docs
   /elasticsearch:
