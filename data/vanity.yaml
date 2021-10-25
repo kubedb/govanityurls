@@ -61,6 +61,8 @@ paths:
     repo: https://github.com/kubedb/redis-coordinator
   /replication-mode-detector:
     repo: https://github.com/kubedb/replication-mode-detector
+  /schema-manager:
+    repo: https://github.com/kubedb/schema-manager
   /tests:
     repo: https://github.com/kubedb/tests
   /timescale:
