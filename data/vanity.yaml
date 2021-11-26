@@ -7,6 +7,8 @@ paths:
     repo: https://github.com/kubedb/autoscaler
   /cli:
     repo: https://github.com/kubedb/cli
+  /dashboard:
+    repo: https://github.com/kubedb/dashboard
   /db-client-go:
     repo: https://github.com/kubedb/db-client-go
   /docs:
