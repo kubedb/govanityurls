@@ -65,6 +65,8 @@ paths:
     repo: https://github.com/kubedb/redis
   /redis-coordinator:
     repo: https://github.com/kubedb/redis-coordinator
+  /redis-node-finder:
+    repo: https://github.com/kubedb/redis-node-finder
   /replication-mode-detector:
     repo: https://github.com/kubedb/replication-mode-detector
   /schema-manager:
