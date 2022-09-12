@@ -3,6 +3,8 @@ host: kubedb.dev
 paths:
   /apimachinery:
     repo: https://github.com/kubedb/apimachinery
+  /archiver:
+    repo: https://github.com/kubedb/archiver
   /autoscaler:
     repo: https://github.com/kubedb/autoscaler
   /cli:
