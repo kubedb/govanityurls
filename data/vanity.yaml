@@ -49,8 +49,6 @@ paths:
     repo: https://github.com/kubedb/operator
   /ops-manager:
     repo: https://github.com/kubedb/ops-manager
-  /provisioner:
-    repo: https://github.com/kubedb/provisioner
   /percona-xtradb:
     repo: https://github.com/kubedb/percona-xtradb
   /pg-coordinator:
@@ -67,6 +65,14 @@ paths:
     repo: https://github.com/kubedb/profile-charts
   /profile-kustomizer:
     repo: https://github.com/kubedb/profile-kustomizer
+  /provider-aws:
+    repo: https://github.com/kubedb/provider-aws
+  /provider-azure:
+    repo: https://github.com/kubedb/provider-azure
+  /provider-gcp:
+    repo: https://github.com/kubedb/provider-gcp
+  /provisioner:
+    repo: https://github.com/kubedb/provisioner
   /proxysql:
     repo: https://github.com/kubedb/proxysql
   /redis:
