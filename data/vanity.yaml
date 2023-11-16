@@ -39,8 +39,6 @@ paths:
     repo: https://github.com/kubedb/mongodb
   /mysql:
     repo: https://github.com/kubedb/mysql
-  /singlestore:
-    repo: https://github:com/kubedb/singlestore
   /mysql-coordinator:
     repo: https://github.com/kubedb/mysql-coordinator
   /mysql-replication-mode-detector:
@@ -87,6 +85,10 @@ paths:
     repo: https://github.com/kubedb/replication-mode-detector
   /schema-manager:
     repo: https://github.com/kubedb/schema-manager
+  /singlestore:
+    repo: https://github.com/kubedb/singlestore
+  /singlestore-coordinator:
+    repo: https://github.com/kubedb/singlestore-coordinator
   /tests:
     repo: https://github.com/kubedb/tests
   /timescale:
