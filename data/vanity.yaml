@@ -9,18 +9,16 @@ paths:
     repo: https://github.com/kubedb/autoscaler
   /cli:
     repo: https://github.com/kubedb/cli
-  /crd-installer:
-    repo: https://github.com/kubedb/crd-installer
   /dashboard:
     repo: https://github.com/kubedb/dashboard
-  /db-alerts:
-    repo: https://github.com/kubedb/db-alerts
   /db-client-go:
     repo: https://github.com/kubedb/db-client-go
   /docs:
     repo: https://github.com/kubedb/docs
   /elasticsearch:
     repo: https://github.com/kubedb/elasticsearch
+  /elasticsearch-restic-plugin:
+    repo: https://github.com/kubedb/elasticsearch-restic-plugin
   /enterprise:
     repo: https://github.com/kubedb/enterprise
   /etcd:
@@ -29,20 +27,32 @@ paths:
     repo: https://github.com/kubedb/installer
   /kafka:
     repo: https://github.com/kubedb/kafka
+  /kubedb-manifest-plugin:
+    repo: https://github.com/kubedb/kubedb-manifest-plugin
   /mariadb:
     repo: https://github.com/kubedb/mariadb
+  /mariadb-archiver:
+    repo: https://github.com/kubedb/mariadb-archiver
   /mariadb-coordinator:
     repo: https://github.com/kubedb/mariadb-coordinator
   /memcached:
     repo: https://github.com/kubedb/memcached
   /mongodb:
     repo: https://github.com/kubedb/mongodb
+  /mongodb-csi-snapshotter-plugin:
+    repo: https://github.com/kubedb/mongodb-csi-snapshotter-plugin
+  /mongodb-restic-plugin:
+    repo: https://github.com/kubedb/mongodb-restic-plugin
   /mysql:
     repo: https://github.com/kubedb/mysql
+  /mysql-archiver:
+    repo: https://github.com/kubedb/mysql-archiver
   /mysql-coordinator:
     repo: https://github.com/kubedb/mysql-coordinator
   /mysql-replication-mode-detector:
     repo: https://github.com/appscode/mysql-replication-mode-detector
+  /mysql-restic-plugin:
+    repo: https://github.com/kubedb/mysql-restic-plugin
   /mysql-router-init:
     repo: https://github.com/kubedb/mysql-router-init
   /operator:
@@ -61,6 +71,8 @@ paths:
     repo: https://github.com/kubedb/pgbouncer_exporter
   /postgres:
     repo: https://github.com/kubedb/postgres
+  /postgres-archiver:
+    repo: https://github.com/kubedb/postgres-archiver
   /profile-charts:
     repo: https://github.com/kubedb/profile-charts
   /profile-kustomizer:
@@ -81,6 +93,8 @@ paths:
     repo: https://github.com/kubedb/redis-coordinator
   /redis-node-finder:
     repo: https://github.com/kubedb/redis-node-finder
+  /redis-restic-plugin:
+    repo: https://github.com/kubedb/redis-restic-plugin
   /replication-mode-detector:
     repo: https://github.com/kubedb/replication-mode-detector
   /schema-manager:
