@@ -73,6 +73,8 @@ paths:
     repo: https://github.com/kubedb/postgres
   /postgres-archiver:
     repo: https://github.com/kubedb/postgres-archiver
+  /postgres-csi-snapshotter-plugin:
+    repo: https://github.com/kubedb/postgres-csi-snapshotter-plugin
   /profile-charts:
     repo: https://github.com/kubedb/profile-charts
   /profile-kustomizer:
