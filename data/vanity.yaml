@@ -69,6 +69,8 @@ paths:
     repo: https://github.com/kubedb/pgbouncer
   /pgbouncer_exporter:
     repo: https://github.com/kubedb/pgbouncer_exporter
+  /pgpool:
+    repo: https://github.com/kubedb/pgpool
   /postgres:
     repo: https://github.com/kubedb/postgres
   /postgres-archiver:
