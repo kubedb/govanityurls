@@ -93,6 +93,8 @@ paths:
     repo: https://github.com/kubedb/provisioner
   /proxysql:
     repo: https://github.com/kubedb/proxysql
+  /rabbitmq:
+    repo: https://github.com/kubedb/rabbitmq
   /redis:
     repo: https://github.com/kubedb/redis
   /redis-coordinator:
