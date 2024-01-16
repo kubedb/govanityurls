@@ -43,6 +43,10 @@ paths:
     repo: https://github.com/kubedb/mongodb-csi-snapshotter-plugin
   /mongodb-restic-plugin:
     repo: https://github.com/kubedb/mongodb-restic-plugin
+  /mssql:
+    repo: https://github.com/kubedb/mssql
+  /mssql-coordinator:
+    repo: https://github.com/kubedb/mssql-coordinator
   /mysql:
     repo: https://github.com/kubedb/mysql
   /mysql-archiver:
