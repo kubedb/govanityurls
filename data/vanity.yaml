@@ -15,6 +15,8 @@ paths:
     repo: https://github.com/kubedb/db-client-go
   /docs:
     repo: https://github.com/kubedb/docs
+  /druid:
+    repo: https://github.com/kubedb/druid
   /elasticsearch:
     repo: https://github.com/kubedb/elasticsearch
   /elasticsearch-restic-plugin:
@@ -23,6 +25,8 @@ paths:
     repo: https://github.com/kubedb/enterprise
   /etcd:
     repo: https://github.com/kubedb/etcd
+  /ferretdb:
+    repo: https://github.com/kubedb/ferretdb
   /installer:
     repo: https://github.com/kubedb/installer
   /kafka:
@@ -115,6 +119,8 @@ paths:
     repo: https://github.com/kubedb/singlestore
   /singlestore-coordinator:
     repo: https://github.com/kubedb/singlestore-coordinator
+  /solr:
+    repo: https://github.com/kubedb/solr
   /tests:
     repo: https://github.com/kubedb/tests
   /timescale:
@@ -123,3 +129,5 @@ paths:
     repo: https://github.com/kubedb/ui-server
   /webhook-server:
     repo: https://github.com/kubedb/webhook-server
+  /zookeeper:
+    repo: https://github.com/kubedb/zookeeper
