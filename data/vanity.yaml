@@ -11,6 +11,8 @@ paths:
     repo: https://github.com/kubedb/cli
   /dashboard:
     repo: https://github.com/kubedb/dashboard
+  /dashboard-restic-plugin:
+    repo: https://github.com/kubedb/dashboard-restic-plugin
   /db-client-go:
     repo: https://github.com/kubedb/db-client-go
   /docs:
@@ -39,6 +41,8 @@ paths:
     repo: https://github.com/kubedb/mariadb-archiver
   /mariadb-coordinator:
     repo: https://github.com/kubedb/mariadb-coordinator
+  /mariadb-restic-plugin:
+    repo: https://github.com/kubedb/mariadb-restic-plugin
   /memcached:
     repo: https://github.com/kubedb/memcached
   /mongodb:
@@ -119,6 +123,8 @@ paths:
     repo: https://github.com/kubedb/singlestore
   /singlestore-coordinator:
     repo: https://github.com/kubedb/singlestore-coordinator
+  /singlestore-restic-plugin:
+    repo: https://github.com/kubedb/singlestore-restic-plugin
   /solr:
     repo: https://github.com/kubedb/solr
   /tests:
