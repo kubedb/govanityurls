@@ -55,6 +55,8 @@ paths:
     repo: https://github.com/kubedb/mssql
   /mssql-coordinator:
     repo: https://github.com/kubedb/mssql-coordinator
+  /mssql-restic-plugin:
+    repo: https://github.com/kubedb/mssql-restic-plugin
   /mysql:
     repo: https://github.com/kubedb/mysql
   /mysql-archiver:
@@ -137,3 +139,5 @@ paths:
     repo: https://github.com/kubedb/webhook-server
   /zookeeper:
     repo: https://github.com/kubedb/zookeeper
+  /zookeeper-restic-plugin:
+    repo: https://github.com/kubedb/zookeeper-restic-plugin
