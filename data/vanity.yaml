@@ -9,6 +9,8 @@ paths:
     repo: https://github.com/kubedb/autoscaler
   /cli:
     repo: https://github.com/kubedb/cli
+  /clickhouse:
+    repo: https://github.com/kubedb/clickhouse
   /dashboard:
     repo: https://github.com/kubedb/dashboard
   /dashboard-restic-plugin:
@@ -129,6 +131,8 @@ paths:
     repo: https://github.com/kubedb/singlestore-restic-plugin
   /solr:
     repo: https://github.com/kubedb/solr
+  /solr-plugin:
+    repo: https://github.com/kubedb/solr-plugin
   /tests:
     repo: https://github.com/kubedb/tests
   /timescale:
