@@ -139,6 +139,8 @@ paths:
     repo: https://github.com/kubedb/tests
   /timescale:
     repo: https://github.com/kubedb/timescale
+  /ui:
+    repo: https://github.com/kubedb/ui
   /ui-server:
     repo: https://github.com/kubedb/ui-server
   /webhook-server:
