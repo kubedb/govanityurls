@@ -1,5 +1,4 @@
 host: kubedb.dev
-
 paths:
   /apimachinery:
     repo: https://github.com/kubedb/apimachinery
@@ -14,7 +13,7 @@ paths:
   /clickhouse:
     repo: https://github.com/kubedb/clickhouse
   /dashboard:
-    repo: https://github.com/kubedb/dashboard
+    repo: https://github.com/kubedb/kibana
   /dashboard-restic-plugin:
     repo: https://github.com/kubedb/dashboard-restic-plugin
   /db-client-go:
@@ -37,6 +36,8 @@ paths:
     repo: https://github.com/kubedb/installer
   /kafka:
     repo: https://github.com/kubedb/kafka
+  /kibana:
+    repo: https://github.com/kubedb/kibana
   /kubedb-manifest-plugin:
     repo: https://github.com/kubedb/kubedb-manifest-plugin
   /mariadb:
@@ -57,6 +58,10 @@ paths:
     repo: https://github.com/kubedb/mongodb-restic-plugin
   /mssql:
     repo: https://github.com/kubedb/mssql
+  /mssql-coordinator:
+    repo: https://github.com/kubedb/mssql-coordinator
+  /mssql-restic-plugin:
+    repo: https://github.com/kubedb/mssql-restic-plugin
   /mssqlserver:
     repo: https://github.com/kubedb/mssqlserver
   /mssqlserver-archiver:
@@ -65,10 +70,6 @@ paths:
     repo: https://github.com/kubedb/mssqlserver-walg-plugin
   /mssqlserver_exporter:
     repo: https://github.com/kubedb/mssqlserver_exporter
-  /mssql-coordinator:
-    repo: https://github.com/kubedb/mssql-coordinator
-  /mssql-restic-plugin:
-    repo: https://github.com/kubedb/mssql-restic-plugin
   /mysql:
     repo: https://github.com/kubedb/mysql
   /mysql-archiver:
