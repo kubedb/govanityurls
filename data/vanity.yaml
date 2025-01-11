@@ -32,6 +32,8 @@ paths:
     repo: https://github.com/kubedb/etcd
   /ferretdb:
     repo: https://github.com/kubedb/ferretdb
+  /gitops:
+    repo: https://github.com/kubedb/gitops
   /installer:
     repo: https://github.com/kubedb/installer
   /kafka:
