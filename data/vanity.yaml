@@ -34,6 +34,10 @@ paths:
     repo: https://github.com/kubedb/ferretdb
   /gitops:
     repo: https://github.com/kubedb/gitops
+  /hazelcast:
+    repo: https://github.com/kubedb/hazelcast
+  /ignite:
+    repo: https://github.com/kubedb/ignite
   /installer:
     repo: https://github.com/kubedb/installer
   /kafka:
@@ -88,6 +92,8 @@ paths:
     repo: https://github.com/kubedb/operator
   /ops-manager:
     repo: https://github.com/kubedb/ops-manager
+  /oracle:
+    repo: https://github.com/kubedb/oracle
   /percona-xtradb:
     repo: https://github.com/kubedb/percona-xtradb
   /pg-coordinator:
