@@ -18,6 +18,8 @@ paths:
     repo: https://github.com/kubedb/dashboard-restic-plugin
   /db-client-go:
     repo: https://github.com/kubedb/db-client-go
+  /db2:
+    repo: https://github.com/kubedb/db2
   /docs:
     repo: https://github.com/kubedb/docs
   /druid:
@@ -34,6 +36,8 @@ paths:
     repo: https://github.com/kubedb/ferretdb
   /gitops:
     repo: https://github.com/kubedb/gitops
+  /hanadb:
+    repo: https://github.com/kubedb/hanadb
   /hazelcast:
     repo: https://github.com/kubedb/hazelcast
   /ignite:
@@ -56,6 +60,8 @@ paths:
     repo: https://github.com/kubedb/mariadb-restic-plugin
   /memcached:
     repo: https://github.com/kubedb/memcached
+  /milvus:
+    repo: https://github.com/kubedb/milvus
   /mongodb:
     repo: https://github.com/kubedb/mongodb
   /mongodb-csi-snapshotter-plugin:
@@ -130,6 +136,8 @@ paths:
     repo: https://github.com/kubedb/provisioner
   /proxysql:
     repo: https://github.com/kubedb/proxysql
+  /qdrant:
+    repo: https://github.com/kubedb/qdrant
   /rabbitmq:
     repo: https://github.com/kubedb/rabbitmq
   /redis:
@@ -164,6 +172,8 @@ paths:
     repo: https://github.com/kubedb/ui-server
   /vcluster-plugin:
     repo: https://github.com/kubedb/vcluster-plugin
+  /weaviate:
+    repo: https://github.com/kubedb/weaviate
   /webhook-server:
     repo: https://github.com/kubedb/webhook-server
   /zookeeper:
