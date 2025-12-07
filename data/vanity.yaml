@@ -20,6 +20,8 @@ paths:
     repo: https://github.com/kubedb/db-client-go
   /db2:
     repo: https://github.com/kubedb/db2
+  /db2-coordinator:
+    repo: https://github.com/kubedb/db2-coordinator
   /docs:
     repo: https://github.com/kubedb/docs
   /druid:
@@ -38,6 +40,8 @@ paths:
     repo: https://github.com/kubedb/gitops
   /hanadb:
     repo: https://github.com/kubedb/hanadb
+  /hanadb-coordinator:
+    repo: https://github.com/kubedb/hanadb-coordinator
   /hazelcast:
     repo: https://github.com/kubedb/hazelcast
   /ignite:
@@ -100,6 +104,8 @@ paths:
     repo: https://github.com/kubedb/ops-manager
   /oracle:
     repo: https://github.com/kubedb/oracle
+  /oracle-coordinator:
+    repo: https://github.com/kubedb/oracle-coordinator
   /percona-xtradb:
     repo: https://github.com/kubedb/percona-xtradb
   /pg-coordinator:
