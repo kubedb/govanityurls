@@ -98,6 +98,8 @@ paths:
     repo: https://github.com/kubedb/mysql-restic-plugin
   /mysql-router-init:
     repo: https://github.com/kubedb/mysql-router-init
+  /neo4j:
+    repo: https://github.com/kubedb/neo4j
   /operator:
     repo: https://github.com/kubedb/operator
   /ops-manager:
