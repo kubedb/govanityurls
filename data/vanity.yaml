@@ -64,6 +64,10 @@ paths:
     repo: https://github.com/kubedb/mariadb-restic-plugin
   /memcached:
     repo: https://github.com/kubedb/memcached
+  /migrator-cli:
+    repo: https://github.com/kubedb/migrator-cli
+  /migrator-operator:
+    repo: https://github.com/kubedb/migrator-operator
   /milvus:
     repo: https://github.com/kubedb/milvus
   /mongodb:
