@@ -188,3 +188,7 @@ paths:
     repo: https://github.com/kubedb/zookeeper
   /zookeeper-restic-plugin:
     repo: https://github.com/kubedb/zookeeper-restic-plugin
+  /migrator-cli:
+    repo: https://github.com/kubedb/migrator-cli
+  /migrator-operator:
+    repo: https://github.com/kubedb/migrator-operator
