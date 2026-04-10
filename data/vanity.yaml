@@ -24,6 +24,8 @@ paths:
     repo: https://github.com/kubedb/db2-coordinator
   /docs:
     repo: https://github.com/kubedb/docs
+  /documentdb:
+    repo: https://github.com/kubedb/documentdb
   /druid:
     repo: https://github.com/kubedb/druid
   /elasticsearch:
