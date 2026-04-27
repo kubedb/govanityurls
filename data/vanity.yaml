@@ -78,6 +78,8 @@ paths:
     repo: https://github.com/kubedb/mongodb-csi-snapshotter-plugin
   /mongodb-restic-plugin:
     repo: https://github.com/kubedb/mongodb-restic-plugin
+  /mongoshake-prometheus-exporter:
+    repo: https://github.com/kubedb/mongoshake-prometheus-exporter
   /mssql:
     repo: https://github.com/kubedb/mssql
   /mssql-coordinator:
