@@ -64,6 +64,8 @@ paths:
     repo: https://github.com/kubedb/mariadb-coordinator
   /mariadb-restic-plugin:
     repo: https://github.com/kubedb/mariadb-restic-plugin
+  /mcp-server:
+    repo: https://github.com/kubedb/mcp-server
   /memcached:
     repo: https://github.com/kubedb/memcached
   /migrator-cli:
