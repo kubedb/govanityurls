@@ -1,19 +1,21 @@
 host: kubedb.dev
 paths:
+  /aerospike:
+    repo: https://github.com/kubedb/aerospike
   /apimachinery:
     repo: https://github.com/kubedb/apimachinery
   /archiver:
     repo: https://github.com/kubedb/archiver
   /autoscaler:
     repo: https://github.com/kubedb/autoscaler
-  /aerospike:
-    repo: https://github.com/kubedb/aerospike
   /cassandra:
     repo: https://github.com/kubedb/cassandra
   /cli:
     repo: https://github.com/kubedb/cli
   /clickhouse:
     repo: https://github.com/kubedb/clickhouse
+  /courier:
+    repo: https://github.com/kubedb/courier
   /dashboard:
     repo: https://github.com/kubedb/kibana
   /dashboard-restic-plugin:
@@ -70,10 +72,8 @@ paths:
     repo: https://github.com/kubedb/mcp-server
   /memcached:
     repo: https://github.com/kubedb/memcached
-  /migrator-cli:
-    repo: https://github.com/kubedb/migrator-cli
-  /migrator-operator:
-    repo: https://github.com/kubedb/migrator-operator
+  /migrator:
+    repo: https://github.com/kubedb/migrator
   /milvus:
     repo: https://github.com/kubedb/milvus
   /mongodb:
