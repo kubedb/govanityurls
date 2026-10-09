@@ -78,6 +78,12 @@ paths:
     repo: https://github.com/kubedb/migrator
   /milvus:
     repo: https://github.com/kubedb/milvus
+  /milvus-archiver:
+    repo: https://github.com/kubedb/milvus-archiver
+  /milvus-backup-plugin:
+    repo: https://github.com/kubedb/milvus-backup-plugin
+  /milvus-csi-snapshotter-plugin:
+    repo: https://github.com/kubedb/milvus-csi-snapshotter-plugin
   /mongodb:
     repo: https://github.com/kubedb/mongodb
   /mongodb-csi-snapshotter-plugin:
