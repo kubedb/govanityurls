@@ -204,6 +204,10 @@ paths:
     repo: https://github.com/kubedb/weaviate
   /webhook-server:
     repo: https://github.com/kubedb/webhook-server
+  /yugabytedb:
+    repo: https://github.com/kubedb/yugabytedb
+  /yugabytedb-restic-plugin:
+    repo: https://github.com/kubedb/yugabytedb-restic-plugin
   /zookeeper:
     repo: https://github.com/kubedb/zookeeper
   /zookeeper-restic-plugin:
